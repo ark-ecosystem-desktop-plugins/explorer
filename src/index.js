@@ -2,16 +2,25 @@ module.exports = {
   register () {
     this.routes = [
       {
-        path: '/explorer',
-        name: 'explorer',
-        component: 'Explorer'
+        path: '/mainnet-explorer',
+        name: 'mainnet-explorer',
+        component: 'MainnetExplorer'
+      },
+      {
+        path: '/devnet-explorer',
+        name: 'devnet-explorer',
+        component: 'DevnetExplorer'
       }
     ]
 
     this.menuItems = [
       {
-        routeName: 'explorer',
-        title: 'Explorer'
+        routeName: 'mainnet-explorer',
+        title: 'Mainnet Explorer'
+      },
+      {
+        routeName: 'devnet-explorer',
+        title: 'Devnet Explorer'
       }
     ]
   },
