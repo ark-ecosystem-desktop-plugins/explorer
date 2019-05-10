@@ -1,8 +1,8 @@
 {
-  "name": "ark-desktop-explorer",
-  "title": "ARK Explorer on the wallet",
+  "name": "ark-explorer",
+  "title": "ARK Explorers on the wallet",
   "version": "0.1.0",
-  "description": "Use the ARK explorer directly on the wallet",
+  "description": "Use the ARK Mainnet and Devnet explorers directly on the wallet",
   "main": "index.js",
   "permissions": [
   	"COMPONENTS",
