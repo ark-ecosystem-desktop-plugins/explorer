@@ -7,8 +7,7 @@
   "permissions": [
   	"COMPONENTS",
   	"ROUTES",
-    "MENU_ITEMS",
-    "UNPROTECTED_IFRAME_URLS"
+    "MENU_ITEMS"
   ],
   "repository": {
     "type": "git",

@@ -40,9 +40,5 @@ module.exports = {
 
   getMenuItems () {
     return this.menuItems
-  },
-
-  getUnprotectedIframeUrls () {
-    return []
   }
 }
