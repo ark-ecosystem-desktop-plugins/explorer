@@ -11,15 +11,18 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/j-a-m-l/ark-desktop-explorer.git"
+    "url": "git+https://github.com/ark-ecosystem-desktop-plugins/explorer.git"
   },
   "keywords": [
     "ark"
   ],
-  "author": "Juan A. Martín <juan@ark.io>",
+  "contributors": [
+    "Juan A. Martín <juan@ark.io>",
+    "Alex Barnsley <alex@ark.io>"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/j-a-m-l/ark-desktop-explorer/issues"
+    "url": "https://github.com/ark-ecosystem-desktop-plugins/explorer/issues"
   },
-  "homepage": "https://github.com/j-a-m-l/ark-desktop-explorer#readme"
+  "homepage": "https://github.com/ark-ecosystem-desktop-plugins/explorer#readme"
 }
