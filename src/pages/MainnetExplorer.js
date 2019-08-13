@@ -1,7 +1,7 @@
 module.exports = {
   template: `
     <div>
-      <Webview src="https://explorer.ark.io/" class="w-full h-full" />
+      <iframe src="https://arkecosystem.github.io/#/" class="w-full h-full" />
     </div>
   `
 }
