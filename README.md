@@ -1,5 +1,5 @@
 # Explorer - ARK Desktop Wallet plugin
-Use the ARK Mainnet and Devnet explorers directly on the wallet 
+Use the ARK Mainnet explorer directly within the wallet
 
 ## Installation
 
@@ -9,6 +9,7 @@ Use the ARK Mainnet and Devnet explorers directly on the wallet
 
 ## Credits
 
+- [Alex Barnsley](https://github.com/alexbarnsley)
 - [Juan A. Martín](https://github.com/j-a-m-l)
 - [All Contributors](../../contributors)
 
