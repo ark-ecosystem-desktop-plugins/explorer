@@ -5,11 +5,6 @@ module.exports = {
         path: '/mainnet-explorer',
         name: 'mainnet-explorer',
         component: 'MainnetExplorer'
-      },
-      {
-        path: '/devnet-explorer',
-        name: 'devnet-explorer',
-        component: 'DevnetExplorer'
       }
     ]
 
@@ -17,10 +12,6 @@ module.exports = {
       {
         routeName: 'mainnet-explorer',
         title: 'Mainnet Explorer'
-      },
-      {
-        routeName: 'devnet-explorer',
-        title: 'Devnet Explorer'
       }
     ]
   },
