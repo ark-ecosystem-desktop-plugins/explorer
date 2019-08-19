@@ -14,8 +14,18 @@
     "type": "git",
     "url": "git+https://github.com/ark-ecosystem-desktop-plugins/explorer.git"
   },
+  "desktop-wallet": {
+    "categories": [
+      "utility"
+    ],
+    "minimumVersion": "2.6"
+  },
   "keywords": [
-    "ark"
+    "utility",
+    "explorer",
+    "@arkecosystem",
+    "desktop-wallet",
+    "plugin"
   ],
   "contributors": [
     "Alex Barnsley <alex@ark.io>",
