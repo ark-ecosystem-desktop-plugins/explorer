@@ -8,7 +8,7 @@
   	"COMPONENTS",
   	"ROUTES",
     "MENU_ITEMS",
-    "IFRAME"
+    "WEBFRAME"
   ],
   "repository": {
     "type": "git",
