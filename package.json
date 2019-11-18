@@ -1,6 +1,6 @@
 {
   "name": "@arkecosystem/desktop-wallet-explorer",
-  "title": "ARK Explorer on the wallet",
+  "title": "ARK Explorer on the Wallet",
   "version": "0.1.8",
   "description": "Use the ARK Mainnet explorer directly within the wallet",
   "main": "index.js",
