@@ -3,6 +3,7 @@
   "title": "ARK Explorer Wallet Edition",
   "version": "0.1.9",
   "description": "Use the ARK Mainnet explorer directly within the wallet",
+  "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/explorer/master/logo.png",
   "main": "index.js",
   "permissions": [
   	"COMPONENTS",
