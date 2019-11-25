@@ -1,24 +1,24 @@
 {
   "name": "@arkecosystem/desktop-wallet-explorer",
-  "title": "ARK Explorer Wallet Edition",
   "version": "0.1.11",
   "description": "Use the ARK Mainnet explorer directly within the wallet",
   "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/explorer/master/logo.png",
   "main": "index.js",
-  "permissions": [
-    "COMPONENTS",
-    "ROUTES",
-    "MENU_ITEMS",
-    "UI_COMPONENTS",
-    "WEBFRAME"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ark-ecosystem-desktop-plugins/explorer.git"
   },
   "desktop-wallet": {
+    "title": "ARK Explorer Wallet Edition",
     "categories": [
       "utility"
+    ],
+    "permissions": [
+      "COMPONENTS",
+      "ROUTES",
+      "MENU_ITEMS",
+      "UI_COMPONENTS",
+      "WEBFRAME"
     ],
     "minVersion": "2.6"
   },
