@@ -2,16 +2,16 @@ module.exports = {
   register () {
     this.routes = [
       {
-        path: '/mainnet-explorer',
-        name: 'mainnet-explorer',
-        component: 'MainnetExplorer'
+        path: '/ark-explorer',
+        name: 'ark-explorer',
+        component: 'Explorer'
       }
     ]
 
     this.menuItems = [
       {
-        routeName: 'mainnet-explorer',
-        title: 'Mainnet Explorer'
+        routeName: 'ark-explorer',
+        title: 'ARK Explorer'
       }
     ]
   },

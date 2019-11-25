@@ -9,6 +9,7 @@
   	"COMPONENTS",
   	"ROUTES",
     "MENU_ITEMS",
+    "UI_COMPONENTS",
     "WEBFRAME"
   ],
   "repository": {
