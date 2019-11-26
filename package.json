@@ -8,7 +8,7 @@
     "url": "git+https://github.com/ark-ecosystem-desktop-plugins/explorer.git"
   },
   "desktop-wallet": {
-    "title": "ARK Explorer Wallet Edition",
+    "title": "ARK Explorer",
     "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/explorer/master/logo.png",
     "categories": [
       "utility"
