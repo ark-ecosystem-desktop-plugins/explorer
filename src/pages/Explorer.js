@@ -47,7 +47,32 @@ module.exports = {
     }
   },
 
+  mounted () {
+    if (!this.isARKNetwork) {
+      this.explorers[this.currentNetwork.name] = this.currentNetwork.explorer
+      this.selectedIndex = this.currentNetwork.name
+    } else if (this.isARKDevnet) {
+      this.selectedIndex = 'ARK Explorer - APN Devnet'
+    }
+  },
+
   computed: {
+    currentNetwork () {
+      return walletApi.profiles.getCurrent().network
+    },
+
+    isARKMainnet () {
+      return this.currentNetwork.nethash === '6e84d08bd299ed97c212c886c98a57e36545c8f5d645ca7eeae63a8bd62d8988'
+    },
+
+    isARKDevnet () {
+      return this.currentNetwork.nethash === '2a44f340d76ffc3df204c5f38cd355b7496c9065a1ade2ef92071436bd72e867'
+    },
+
+    isARKNetwork () {
+      return this.isARKMainnet || this.isARKDevnet
+    },
+
     explorerNames () {
       return Object.keys(this.explorers)
     },
