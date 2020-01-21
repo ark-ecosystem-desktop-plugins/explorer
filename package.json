@@ -18,6 +18,7 @@
       "ROUTES",
       "MENU_ITEMS",
       "UI_COMPONENTS",
+      "PROFILE_CURRENT",
       "WEBFRAME"
     ],
     "minVersion": "2.6"
