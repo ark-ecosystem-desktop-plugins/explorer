@@ -1,6 +1,6 @@
 {
   "name": "@arkecosystem/desktop-wallet-explorer",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Use the ARK Mainnet explorer directly within the wallet",
   "main": "index.js",
   "repository": {
