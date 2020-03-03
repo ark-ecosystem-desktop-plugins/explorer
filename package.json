@@ -9,7 +9,7 @@
   },
   "desktop-wallet": {
     "title": "ARK Explorer",
-    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/explorer/master/logo.png",
+    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/explorer/master/images/logo.png",
     "images": [
       "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/explorer/master/images/preview-1.png",
       "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/explorer/master/images/preview-2.png"
