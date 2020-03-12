@@ -33,7 +33,7 @@ module.exports = {
         </div>
       </MenuDropdown>
 
-      <WebFrame v-if="selectedUrl" :src="selectedUrl" class="w-full h-full" />
+      <WebFrame v-if="selectedUrl" :src="selectedUrl" class="w-full h-full overflow-hidden rounded-lg" />
     </div>
   `,
 
