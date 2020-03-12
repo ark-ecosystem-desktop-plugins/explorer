@@ -27,7 +27,7 @@ module.exports = {
           slot-scope="itemScope"
           class="flex flex-row space-between"
         >
-          <span class="font-semibold">
+          <span class="font-semibold mx-auto">
             {{ itemScope.value }}
           </span>
         </div>
