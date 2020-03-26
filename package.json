@@ -25,7 +25,7 @@
       "PROFILE_CURRENT",
       "WEBFRAME"
     ],
-    "minVersion": "2.6"
+    "minimumVersion": "2.6"
   },
   "keywords": [
     "utility",
